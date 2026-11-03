@@ -1,2 +1,2 @@
-# cysirt.kraken.redpill
-Discontinued KRAKEN coded in C++
+# cysirt.kraken.legacy
+
